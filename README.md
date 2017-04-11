@@ -17,5 +17,6 @@ watch YouTube tutorials.
 # To see it live on your localhost
 Youtube how to install npm, and Node on your system.
 
-# I've set up the backend, we would commit our API stuff in the javascripts/scripts.js folder
+# NOTE 
+I've set up the backend, we would commit our API stuff in the javascripts/scripts.js folder
 Grazie!
