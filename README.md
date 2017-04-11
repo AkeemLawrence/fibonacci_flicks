@@ -1,3 +1,6 @@
+# Visual - Initial Commit
+![Alt text](https://raw.githubusercontent.com/msawo/fibonacci_flicks/master/Screenshot%202017-04-11%2003.17.43.png)
+
 # Fibonacci Flicks
 Search movies and TV shows
 
