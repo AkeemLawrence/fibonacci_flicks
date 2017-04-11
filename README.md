@@ -1,4 +1,4 @@
-# fibonacci_flicks
+# Fibonacci Flicks
 Search movies and TV shows
 
 Guys For:
